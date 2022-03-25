@@ -34,9 +34,8 @@
     "prerelease": "standard-version -- --prerelease",
     "fix": "standard-version -- --release-as minor"
   },
-  "simple-git-hooks": {
-    "pre-commit": "npx commitlint --edit $1 & npm run lint"
-  },
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {
+    "standard-version": "^9.3.2"
+  }
 }
