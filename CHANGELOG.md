@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## 1.1.0 (2022-03-25)
+
+
+### Features
+
+* **bundle:** add standard-version ([2cb5a51](https://github.com/stephen-shopopop/ts-config/commit/2cb5a51fe6fff2df340453bc9f1c9c0c5e7d1240))
+
 ### [1.0.4](https://github.com/stephen-shopopop/eslint-config/compare/v1.0.3...v1.0.4) (2022-03-25)
 
 ### [1.0.3](https://github.com/stephen-shopopop/eslint-config/compare/v1.0.2...v1.0.3) (2022-03-25)
