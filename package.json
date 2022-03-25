@@ -1,0 +1,42 @@
+{
+  "name": "@stephen-shopopop/ts-config",
+  "version": "1.0.4",
+  "description": "typescript configuration",
+  "keywords": [
+    "typescript"
+  ],
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephen-shopopop/ts-config.git"
+  },
+  "author": "stephen-shopopop<stephen-deletang@shopopop.com>",
+  "engine": {
+    "node": ">=14.16.1",
+    "npm": ">=6.14.12"
+  },
+  "os": [
+    "darwin",
+    "linux",
+    "win32"
+  ],
+  "bugs": {
+    "url": "https://github.com/stephen-shopopop/ts-config/issues"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "contributors": [
+    "stephendltg"
+  ],
+  "scripts": {
+    "release": "standard-version",
+    "prerelease": "standard-version -- --prerelease",
+    "fix": "standard-version -- --release-as minor"
+  },
+  "simple-git-hooks": {
+    "pre-commit": "npx commitlint --edit $1 & npm run lint"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
