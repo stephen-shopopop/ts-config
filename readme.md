@@ -26,7 +26,7 @@ npm add -D @stephen-shopopop/ts-config
 Add to your `tsconfig.json`:
 
 ```json
-"extends": "@tsconfig/recommended/tsconfig.json"
+"extends": "@stephen-shopopop/ts-config/tsconfig.json"
 ```
 
 ## Contributing
