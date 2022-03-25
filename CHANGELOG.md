@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.2](https://github.com/stephen-shopopop/ts-config/compare/v1.1.1...v1.1.2) (2022-03-25)
+
+
+### Bug Fixes
+
+* **tsonfig:** FIX includes ([c75cc0f](https://github.com/stephen-shopopop/ts-config/commit/c75cc0f1d667d5d196d6588e5d97736119e06f78))
+
 ### [1.1.1](https://github.com/stephen-shopopop/ts-config/compare/v1.1.0...v1.1.1) (2022-03-25)
 
 ## 1.1.0 (2022-03-25)
