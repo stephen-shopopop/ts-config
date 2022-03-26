@@ -38,3 +38,11 @@ Open a PR to propose another rules
 ### Summary
 
 - [library & tools](tools.md)
+
+### Package maintenance
+
+A modern cli tool that keeps your deps fresh
+
+```bash
+npx taze
+```
