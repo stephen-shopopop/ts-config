@@ -1,7 +1,4 @@
-.vscode/
-test/
-out/
-coverage/
-jest.config.js
-commitlint.config.json
-Makefile
+*
+!ts-config.json
+!package.json
+!readme.md
